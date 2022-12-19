@@ -13,3 +13,7 @@
 .timeline-date {
   color: darkred;
 }
+
+body {
+  font-family: 'Poppins', sans-serif;
+}
