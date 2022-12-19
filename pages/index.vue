@@ -6,7 +6,7 @@
       </div>
       <div class="md:w-2/3 px-8">
         <AuthorIntro></AuthorIntro>
-        <Expertise></Expertise>
+        <!-- <Expertise></Expertise> -->
         <TimeLine></TimeLine>
       </div>
     </div>
@@ -32,7 +32,7 @@ export default {
         content: siteMetaInfo.description,
       },
     ],
-    link: [{ rel: "icon", type: "image/x-icon", href: "/favicon.ico" }],
+    link: [{ rel: "icon", type: "image/x-icon", href: "/favicon.jpeg" }],
   },
 
 };

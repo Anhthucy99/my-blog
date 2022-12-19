@@ -31,14 +31,7 @@
           ><span class="sr-only">facebook</span>
           <img class="w-8 h-8" src="~assets/icon/facebook.svg"
         /></a>
-        <a
-          class="text-sm text-gray-500 transition hover:text-gray-600"
-          target="_blank"
-          rel="noopener noreferrer"
-          :href="siteMetadata.youtube"
-          ><span class="sr-only">youtube</span>
-          <img class="w-8 h-8" src="~assets/icon/youtube.svg"
-        /></a>
+       
       </div>
       <div class="flex mb-2 space-x-2 text-sm text-gray-500 dark:text-gray-400">
         <div>Copyright © {{ new Date().getFullYear() }}</div>
@@ -47,14 +40,6 @@
           >{{ siteMetadata.author }}'s blog - {{ siteMetadata.slogan }}</a
         >
       </div>
-      <div class="mb-8 text-sm text-gray-500 dark:text-gray-400">
-        <a
-          target="_blank"
-          rel="noopener noreferrer"
-          href="https://github.com/mdrathik/tailwind-nuxtjs-starter-blog"
-        ></a>
-      </div>
-      <BuyMeACoffee></BuyMeACoffee>
     </div>
   </footer>
 </template>

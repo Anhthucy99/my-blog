@@ -45,7 +45,7 @@ export default {
     };
   },
   head: {
-    title: "Md Solaiman | Blogs",
+    title: "Anh Thư | Blogs",
     meta: [
       { charset: "utf-8" },
       { name: "viewport", content: "width=device-width, initial-scale=1" },
@@ -55,7 +55,7 @@ export default {
         content: "Its Solaiman's Pen and Paper to write ",
       },
     ],
-    link: [{ rel: "icon", type: "image/x-icon", href: "/favicon.ico" }],
+    link: [{ rel: "icon", type: "image/x-icon", href: "/favicon.jpeg" }],
   },
 };
 </script>

@@ -41,7 +41,7 @@ export default {
     };
   },
   head: {
-    title: "Md Solaiman | Projects",
+    title: "Anh Thư | Projects",
     meta: [
       { charset: "utf-8" },
       { name: "viewport", content: "width=device-width, initial-scale=1" },
@@ -51,7 +51,7 @@ export default {
         content: "Some of Projects developed by Solaiman",
       },
     ],
-    link: [{ rel: "icon", type: "image/x-icon", href: "/favicon.ico" }],
+    link: [{ rel: "icon", type: "image/x-icon", href: "/favicon.jpeg" }],
   },
 };
 </script>

@@ -5,3 +5,11 @@
 .nuxt-link-exact-active {
   @apply text-blue-500;
 }
+
+.my-image {
+  object-fit: cover;
+}
+
+.timeline-date {
+  color: darkred;
+}
