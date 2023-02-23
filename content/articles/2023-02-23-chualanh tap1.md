@@ -3,7 +3,7 @@ title: CHỮA LÀNH - TẬP 1
 tags: LIFE
 date: 2023-02-23
 description: SELF LOVE.
-image: https://drive.google.com/file/d/1BNSY66HY38PJy92LgVccFDpIlccQF3h-/view?usp=sharing
+image: https://i.ibb.co/mcPz4P9/photo-2023-02-23-22-41-01.jpg
 author: Anh Thư
 draft: true
 ---
@@ -20,7 +20,7 @@ Cuộc sống sẽ vô vàn lần đưa bạn đến những thời điểm mà 
 
 Hạnh phúc không phụ thuộc vào ai cả, nó phụ thuộc vào trái tim của bạn. Hoàn thiện chính mình, thành công sẽ theo bạn mà tới thôi. Sống thoải mái một chút sẽ thấy mọi thứ đều dễ thở hơn. Bạn không cần phải đủ tốt để mọi người yêu mến bạn, bạn chỉ cần đủ tốt cho chính mình, để bạn yêu bạn. Vì vậy cuộc đời bạn không phải là dùng để lấy lòng người khác. Đừng sống cuộc sống của bạn theo con mắt của người khác, điều quan trọng là tìm ra giá trị bản thân để toả sáng theo cách riêng của mình, mình sống cuộc đời mình nên mình hãy đi theo con đường mà mình chọn. Đừng đợi ai đó mang hoa đến cho bạn, bạn hãy tự trồng khu vườn cho riêng mình và trang trí một tâm hồn thật đẹp.
 
-![nụ cười thảnh thơi](https://drive.google.com/file/d/1JF5rViBmTaMdMoyMUVpE7BgYfurki0cC/view?usp=share_link)
+![nụ cười thảnh thơi](https://i.ibb.co/2cRHMh3/2023-02-23-22-41-53.jpg)
 
 # Let go
 
