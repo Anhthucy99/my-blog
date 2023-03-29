@@ -3,7 +3,7 @@ title: CHỮA LÀNH - TẬP 2
 tags: life, happiness
 date: 2023-03-29
 description: SỐNG TÍCH CỰC ĐỜI KHÔNG TỨC BỰC
-image: https://ibb.co/yqjTxm4
+image: https://i.ibb.co/RcwnJGj/2-B4-E24-D7-C517-4-B23-A14-E-C0056-CD5-FD64.jpg
 author: Anh Thư
 draft: true
 ---
