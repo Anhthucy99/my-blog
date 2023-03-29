@@ -14,7 +14,7 @@ Xin chào, Mèo đây. Lại là vài con chữ gửi đến bạn, mong bạn s
 
 Lâu ngày không gặp nhau, bạn có khoẻ không, còn nhớ mình hay không?
 
-##Chuyện của mình =)
+## Chuyện của mình =)
 
 Nếu mọi việc đến với bạn theo hướng tiêu cực thì bạn đối mặt như thế nào?
 Câu hỏi của mùa xuân năm 2022 mà mình tự hỏi bản thân đã được trả lời vào mùa xuân năm 2023. Dành một thời gian dài để suy nghĩ thật kỹ nhưng có lẻ câu trả lời mà mình quyết định có thể không phải là câu trả lời mà mình thật sự muốn. Dù vậy mình vẫn chọn sẽ tiếp diễn mọi thứ theo điều mình quyết định. Nhiều khó khăn xuất hiện và mọi thứ trở nên mệt mỏi hơn mình nghỉ. Nhưng rồi mọi việc cũng đang dần được giải quyết và mình đang cố gắng cân bằng mọi thứ, có thể không hoàn toàn tốt nhưng cũng đủ để mình không phải bận tâm nữa. 
