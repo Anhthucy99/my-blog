@@ -1,29 +1,31 @@
 ---
-title: CHỮA LÀNH - TẬP 2
-tags: life, happiness
-date: 2023-03-29
-description: SỐNG TÍCH CỰC ĐỜI KHÔNG TỨC BỰC
-image: https://i.ibb.co/RcwnJGj/2-B4-E24-D7-C517-4-B23-A14-E-C0056-CD5-FD64.jpg
+title: NGÀY ĐẶC BIỆT CỦA TÔI
+tags: life, happiness, birthday
+date: 2023-06-04
+description: TUỔI MỚI HẠNH PHÚC
+image: https://i.ibb.co/SrTcWkn/ba-nh.jpg
 author: Anh Thư
 draft: true
 ---
 
-안녕하세요. 오랜만이에요. 잘 지냈어요?
-
-Xin chào, Mèo đây. Lại là vài con chữ gửi đến bạn, mong bạn sẽ luôn hạnh phúc và bình yên trong suốt những tháng năm tươi đẹp nhé. 
-
-Lâu ngày không gặp nhau, bạn có khoẻ không, còn nhớ mình hay không?
+Xin chào xin chào, lại là Mèo đây.
+Lâu ngày không gặp, dạo này cuộc sống của bạn đầy đủ màu sắc không?
+Vào một ngày đặc biệt, mình lại gặp các bạn ở đây, tâm sự một chút nhé.
 
 ## Chuyện của mình =)
 
-Nếu mọi việc đến với bạn theo hướng tiêu cực thì bạn đối mặt như thế nào?
-Câu hỏi của mùa xuân năm 2022 mà mình tự hỏi bản thân đã được trả lời vào mùa xuân năm 2023. Dành một thời gian dài để suy nghĩ thật kỹ nhưng có lẻ câu trả lời mà mình quyết định có thể không phải là câu trả lời mà mình thật sự muốn. Dù vậy mình vẫn chọn sẽ tiếp diễn mọi thứ theo điều mình quyết định. Nhiều khó khăn xuất hiện và mọi thứ trở nên mệt mỏi hơn mình nghỉ. Nhưng rồi mọi việc cũng đang dần được giải quyết và mình đang cố gắng cân bằng mọi thứ, có thể không hoàn toàn tốt nhưng cũng đủ để mình không phải bận tâm nữa. 
+Hôm nay vừa tròn 24 năm mình nhậm chức giám sát viên Trái đất, mình đã tận hưởng 1 ngày “đặc biệt” theo 1 cách rất bình thường. Đối với mình thì ngày sinh nhật không chỉ là một dịp để kỷ niệm, mà còn là một cơ hội để tận hưởng sự yên bình và tạo cân bằng cho tâm hồn. Thật tuyệt vời nếu mình có một ngày nghỉ để nạp lại năng lượng và tận hưởng sự yên bình. Hôm nay mình đã dành ra không gian riêng để thư giãn, tự thưởng thêm một vài giờ ngủ nướng và trau dồi sự tự yêu thương thông qua việc ríu rít nói chuyện với mẹ. Có thể nằm cuộn tròn và lướt tin tức, ngồi im lặng trong không gian yêu thích mà không ai làm phiền thật là thích.
 
-Chạy trốn sự cô đơn từ thành phố đô thị phồn hoa để về một vùng đất tưởng chừng như quen thuộc hoá ra lại lạ lẫm vô cùng và mọi chuyện cũng chỉ khá hơn một chút làm mình nhớ thành phố vô cùng. Sự hụt hẫn, sự thất vọng, sự chán chường từng ngày từng ngày tích tụ … và mình rất mệt. Những mối quan hệ không còn tốt đẹp như mình nghĩ…Thật sự rất mệt. “À, thì ra mình cũng chỉ có một mình, ở đâu cũng thế.” - mình đã nghĩ như thế này.  Một mảng mây màu xám u tối ở ngay trên đầu mình, nhìn thấy, cảm nhận được, nhưng không thể đánh tan đám mây đó, mỗi ngày mỗi ngày cứ đứng im một chỗ không tiếp nhận sự thú vị mà chỉ mãi nhìn theo những nút thắc, chỉ nhìn và không có ý định gỡ nút, đứng im một chỗ và chỉ thở. Và người ta nói dọn nhà là một trong những cách hiệu quả để quên đi phiền muộn ngay lúc đó. Với mình, dọn nhà chính là chìa khoá để trả đám mây đen về với bầu trời. Sự vận động không ngừng nghỉ và sự xuất hiện của nhiều sự vật, sự việc trong suốt quá trình chiếm hết thời gian mà mình “để dành cho căng thẳng”. 
+Trong năm vừa rồi mình đã quyết định chia tay Thành phố Hồ Chí Minh  và đến với “thành phố đáng sống” để tiếp tục học tập, phát triển và làm việc. Mọi việc ban đầu đều rất khó khăn nhưng mình đang cố gắng cân bằng lại mọi thứ. Quyết định này đã khiến mình rơi vào stress một thời gian, trong đầu mình lúc nào cũng đi tìm câu trả lời cho câu hỏi “Rời Thành phố Hồ Chí Minh là đúng hay sai?”. Mọi việc cứ dậm chân tại chỗ, sự cô đơn, việc khó khăn trong công việc mới, khó hoà nhập với mọi người trong môi trường mới khiến mình nhớ thành phố Hồ Chí Minh da diết, muốn bỏ hết mọi việc. Nhưng bây giờ thì mình đã dần dần thích nghi, mọi việc cũng đã vào quỹ đạo, mình thấy mình tiến bộ hơn, suy nghĩ thoải mái hơ. Và những điều tuyệt vời đó chính là nhờ những chị đồng nghiệp đáng yêu của mình, sự quan tâm, chia sẽ, suy nghĩ của những người xa xứ đã khiến mình hoà nhập với môi trường mới, cảm giác cô đơn đã vơi đi nhiều, mình đang dần dần thích nghi và hoà hợp với Đà Nẵng. Mình đang lớn, mình đang dần trưởng thành cùng bạn.
 
-Xâm chiếm thời gian rãnh bằng việc tìm hiểu một chủ đề mới toanh và bản thân mình thật sự bị thu hút bởi những điều mới mẻ mà mình ngộ ra, cảm giác thật thú vị. Mình chọn móc len, móc theo hướng dẫn từng mũi len cơ bản, từng chút từng chút và thành quả mình nhận được không phải một bông hoa HandMade bằng len xinh đẹp, mà đó là sự nghiêm túc của bản thân trong quá trình muốn tìm tòi một kiến thức mới. Nếu như là mình của hai năm trước đây thì thay vì ngồi nghiên cứu từng giây từng giây thì mình sẽ nói là “ những điều nhẹ nhàng này không phù hợp với mình”. Chợt nhận ra muốn chứng minh mình có hứng thú với việc nào đó không thì mình cần “tiếp xúc trực tiếp” để chân thành cảm nhận. Và thật lạ, những nụ cười bất giác xuất hiện trên mặt mình khi mình nghiêm túc học về len, về mũi móc, về cách làm ra một bông hoa và hình thành sự chia sẻ thời gian cho những điều mới mẻ.
+
+Có nhiều người hỏi mình có tổ chức tiệc, có hẹn hò gặp gỡ bạn bè không. Đối với cá nhân mình thì mình việc thích tận hưởng ngày của mình chỉ mỗi bản thân mình thôi. Thật ra thì mình cũng có một vài cuộc hẹn với bạn bè nhưng sau đó thì mình đã huỷ hết các cuộc gặp gỡ vì mình nghĩ rằng ngày đặc biệt của mình thì mình không muốn chia sẻ thời gian với bất kỳ ai, mình dành trọn vẹn thời gian cho chính bản thân mình, làm những điều mình thích, hẹn hò với chính bản thân mình. Còn bạn, bạn muốn làm gì trong ngày sinh nhật?
+
 
 **Mail yêu thương 💌**
 
-Khi bạn chìm đắm trong những tri thức mới, tất cả những chuyện không vui cũng sẽ tự động tiêu tan, mà bộ dạng nhập tâm nghiêm túc của bạn, bạn không biết là trông nó cuốn hút như thế nào đâu. Đừng vì một khoảnh khắc tồi tệ mà thấy cuộc đời này không đáng giá, thăng trầm chỉ là một nốt nhạc. Tích cực hay tiêu cực đều là do bản thân tự vẽ ra. Hãy để tâm trạng của chúng ta thoải mái cùng những điều khiến ta cảm thấy an tâm và hạnh phúc. Đường còn dài, hãy vì mình mà vui.
+Một lần nữa mình muốn nói với bản thân mình rằng tuổi 24 phải thật hạnh phúc nhé. Chúc các bạn sẽ có những ngày tháng thật ý nghĩa và hạnh phúc.Và vào một ngày đặc biệt, mình muốn nhắn nhủ đến bản thân cũng như đến các bạn rằng chúng ta hãy sống nhẹ nhàng, tích cực, suy nghĩ thoải mái hơn, phải yêu bản thân mình nhé.
 
+### HAPPY BIRTHDAY TO ME ^^
+
+![Happy Birthday to me](https://i.ibb.co/tzPnYFN/thu.jpg)
